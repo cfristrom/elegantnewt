@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2024/02/09/turkey-pepperoni.html",
+				
+				"content_html": "<p>Turkey pepperoni 🍕</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Turkey pepperoni 🍕\n\n<img src=\"uploads/2024/f34cbd36f2fd440aa99e0f79ce5ccccd.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack.\">\n",
+				"date_published": "2024-02-09T14:11:04-08:00",
+				"url": "https://elegantnewt.blog/2024/02/09/turkey-pepperoni.html",
+				"tags": ["Pizza"]
+			},
+			{
+				"id": "http://cfristrom.micro.blog/2024/02/04/well-ive-already.html",
+				
+				"content_html": "<p>Well I’ve already had the horrifying experience of having somebody show up in a Zoom meeting as a Persona.</p>\n",
+				"content_text": "Well I’ve already had the horrifying experience of having somebody show up in a Zoom meeting as a Persona.\n",
+				"date_published": "2024-02-04T14:25:04-08:00",
+				"url": "https://elegantnewt.blog/2024/02/04/well-ive-already.html"
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2024/02/03/today-i-learned.html",
 				
 				"content_html": "<p>Today I learned that Apple Watch Series 2 and later have their serial number printed inside one of their watch band slots.</p>\n",
@@ -58,7 +75,7 @@
 				"id": "http://cfristrom.micro.blog/2024/01/18/151342.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2024/0a771bfa6e4b4046b90ee1cfd37a0b12.jpg\" width=\"600\" height=\"600\" alt=\"View of a staircase leading down to a beach between cliffs.\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2024/0a771bfa6e4b4046b90ee1cfd37a0b12.jpg\" width=\"600\" height=\"600\" alt=\"View of a staircase leading down to a beach between cliffs.\">\n",
 				"date_published": "2024-01-18T15:13:42-08:00",
 				"url": "https://elegantnewt.blog/2024/01/18/151342.html"
 			},
