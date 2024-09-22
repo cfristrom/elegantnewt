@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2024/09/22/happy-equinox-to.html",
+				
+				"content_html": "<p>Happy Equinox to those who celebrate ☀️🌎</p>\n",
+				"content_text": "Happy Equinox to those who celebrate ☀️🌎\n",
+				"date_published": "2024-09-22T11:38:18-04:00",
+				"url": "https://elegantnewt.blog/2024/09/22/happy-equinox-to.html"
+			},
+			{
+				"id": "http://cfristrom.micro.blog/2024/09/17/103851.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/87328cbd3edb440aa8881c33579e6b9e.png\" width=\"600\" height=\"480\" alt=\"Screen shot of the Bluesky app, showing account number 647,691.\">\n",
+				"date_published": "2024-09-17T10:38:51-04:00",
+				"url": "https://elegantnewt.blog/2024/09/17/103851.html"
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2024/09/16/finally-updated-my.html",
 				
 				"content_html": "<p>Finally updated my phone to iOS 18 and immediately started sending RCS messages.</p>\n",
@@ -18,7 +34,7 @@
 				"id": "http://cfristrom.micro.blog/2024/09/08/olive-red-onion.html",
 				
 				"content_html": "<p>Olive, red onion, and fresh oregano 🍕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Olive, red onion, and fresh oregano 🍕\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2024/cc48361b3148470f9bdcd1fdd4168a2c.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack on a blue and white striped tablecloth.\">\n",
+				"content_text": "Olive, red onion, and fresh oregano 🍕\n\n<img src=\"uploads/2024/cc48361b3148470f9bdcd1fdd4168a2c.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack on a blue and white striped tablecloth.\">\n",
 				"date_published": "2024-09-08T07:57:05-04:00",
 				"url": "https://elegantnewt.blog/2024/09/08/olive-red-onion.html",
 				"tags": ["Pizza"]
@@ -35,7 +51,7 @@
 				"id": "http://cfristrom.micro.blog/2024/08/23/190431.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/18112/2024/b263a2dbaeca40aba4aabb002eb21056.jpg\" width=\"600\" height=\"600\" alt=\"View of puffy white clouds against a blue sky, reflected in the windows of a building on the left with dark black frames and structural elements. \">\n",
+				"content_text": "<img src=\"uploads/2024/b263a2dbaeca40aba4aabb002eb21056.jpg\" width=\"600\" height=\"600\" alt=\"View of puffy white clouds against a blue sky, reflected in the windows of a building on the left with dark black frames and structural elements. \">\n",
 				"date_published": "2024-08-23T19:04:31-04:00",
 				"url": "https://elegantnewt.blog/2024/08/23/190431.html"
 			},
@@ -43,7 +59,7 @@
 				"id": "http://cfristrom.micro.blog/2024/08/17/geneva-state-park.html",
 				
 				"content_html": "<p>Geneva State Park, Ohio</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Geneva State Park, Ohio\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2024/ab4ae9e8c32b4b6d92f117cd83716b15.jpg\" width=\"600\" height=\"450\" alt=\"View of a sunset over a large lake, dark clouds along the horizon with orange light behind and the calm wares below. \"><img src=\"https://cdn.uploads.micro.blog/18112/2024/43653c833d9443a184d7ac706fb5af60.jpg\" width=\"600\" height=\"450\" alt=\"View of an inlet on a lake at twilight, framed by dark trees on either side.\"><img src=\"https://cdn.uploads.micro.blog/18112/2024/6acadf72f9fb42d0acb978d1e3b75ae0.jpg\" width=\"600\" height=\"449\" alt=\"View of sunset on a lake, with the orange and blue sky in the background and a dark tree leaning from left to right in the foreground. \"><img src=\"https://cdn.uploads.micro.blog/18112/2024/0e410e25e21045a8bdaf8ae92f460c3f.jpg\" width=\"600\" height=\"450\" alt=\"View of sunset on a large lake, with many dark clouds above, a line of orange at the horizon where the sun has just set, and a wedge of black beach in the foreground.\">\n",
+				"content_text": "Geneva State Park, Ohio\n\n<img src=\"uploads/2024/ab4ae9e8c32b4b6d92f117cd83716b15.jpg\" width=\"600\" height=\"450\" alt=\"View of a sunset over a large lake, dark clouds along the horizon with orange light behind and the calm wares below. \"><img src=\"uploads/2024/43653c833d9443a184d7ac706fb5af60.jpg\" width=\"600\" height=\"450\" alt=\"View of an inlet on a lake at twilight, framed by dark trees on either side.\"><img src=\"uploads/2024/6acadf72f9fb42d0acb978d1e3b75ae0.jpg\" width=\"600\" height=\"449\" alt=\"View of sunset on a lake, with the orange and blue sky in the background and a dark tree leaning from left to right in the foreground. \"><img src=\"uploads/2024/0e410e25e21045a8bdaf8ae92f460c3f.jpg\" width=\"600\" height=\"450\" alt=\"View of sunset on a large lake, with many dark clouds above, a line of orange at the horizon where the sun has just set, and a wedge of black beach in the foreground.\">\n",
 				"date_published": "2024-08-17T07:43:16-04:00",
 				"url": "https://elegantnewt.blog/2024/08/17/geneva-state-park.html"
 			},
