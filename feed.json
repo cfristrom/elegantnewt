@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2024/10/22/even-i-am.html",
+				
+				"content_html": "<p>Even I am beginning to wonder when the M4 Macs are finally coming out.</p>\n",
+				"content_text": "Even I am beginning to wonder when the M4 Macs are finally coming out.\n",
+				"date_published": "2024-10-22T09:26:39-04:00",
+				"url": "https://elegantnewt.blog/2024/10/22/even-i-am.html"
+			},
+			{
+				"id": "http://cfristrom.micro.blog/2024/10/19/145607.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/b2ab3a4b1652415dbd447373d864f9df.jpg\" width=\"600\" height=\"450\" alt=\" View of a calm harbor with small boats tied to a floating pier in the foreground, a clear blue sky above reflected in the water below.\">\n",
+				"date_published": "2024-10-19T14:56:07-04:00",
+				"url": "https://elegantnewt.blog/2024/10/19/145607.html"
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2024/10/15/104509.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -50,7 +66,7 @@
 				"id": "http://cfristrom.micro.blog/2024/09/17/103851.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/87328cbd3edb440aa8881c33579e6b9e.png\" width=\"600\" height=\"480\" alt=\"Screen shot of the Bluesky app, showing account number 647,691.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/18112/2024/87328cbd3edb440aa8881c33579e6b9e.png\" width=\"600\" height=\"480\" alt=\"Screen shot of the Bluesky app, showing account number 647,691.\">\n",
 				"date_published": "2024-09-17T10:38:51-04:00",
 				"url": "https://elegantnewt.blog/2024/09/17/103851.html"
 			},
