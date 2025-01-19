@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2025/01/18/i-guess-its-too-late.html",
+				
+				"content_html": "<p>I guess it’s too late for me to start getting in to TikTok.</p>\n",
+				"content_text": "I guess it’s too late for me to start getting in to TikTok.\n",
+				"date_published": "2025-01-18T21:53:26-05:00",
+				"url": "https://elegantnewt.blog/2025/01/18/i-guess-its-too-late.html"
+			},
+			{
+				"id": "http://cfristrom.micro.blog/2025/01/13/learned-that-the-ceo-of.html",
+				
+				"content_html": "<p>Learned that the CEO of my employer has been fired the usual way, from an article on <a href=\"https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app\">The Verge</a>.</p>\n",
+				"content_text": "Learned that the CEO of my employer has been fired the usual way, from an article on [The Verge](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app).\n",
+				"date_published": "2025-01-13T08:27:30-05:00",
+				"url": "https://elegantnewt.blog/2025/01/13/learned-that-the-ceo-of.html"
+			},
+			{
+				"id": "http://cfristrom.micro.blog/2025/01/11/testing-an-inline-image-of.html",
+				
+				"content_html": "<p>Testing an inline image <!-- raw HTML omitted --> of a small newt.</p>\n",
+				"content_text": "Testing an inline image <img src=\"uploads/2025/tinynewt.png\" alt=\"Small drawing of a red and green newt.\" title=\"tinynewt.png\" border=\"0\" width=\"64\" height=\"60\" /> of a small newt.\n",
+				"date_published": "2025-01-11T08:24:58-05:00",
+				"url": "https://elegantnewt.blog/2025/01/11/testing-an-inline-image-of.html"
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2025/01/08/trying-out-the-orion-browser.html",
 				
 				"content_html": "<p>Trying out the Orion browser on macOS after listening to the discussion on The Talk Show 416. It looks good but I don&rsquo;t think I can set command-click to open a new window as I can in Safari.</p>\n",
@@ -101,7 +125,7 @@
 				"id": "http://cfristrom.micro.blog/2024/12/08/sausage-and-onions.html",
 				
 				"content_html": "<p>Sausage and onions 🍕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sausage and onions 🍕\n\n<img src=\"uploads/2024/001ed575fce44cdb85a49fec18a05d9b.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack from directly above.\">\n",
+				"content_text": "Sausage and onions 🍕\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2024/001ed575fce44cdb85a49fec18a05d9b.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack from directly above.\">\n",
 				"date_published": "2024-12-08T18:48:59-05:00",
 				"url": "https://elegantnewt.blog/2024/12/08/sausage-and-onions.html",
 				"tags": ["Pizza"]
