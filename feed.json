@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2026/03/14/happy-day-to-those-who.html",
+				
+				"content_html": "<p>Happy π Day to those who like pie 🥧</p>\n",
+				"content_text": "Happy π Day to those who like pie 🥧\n",
+				"date_published": "2026-03-14T10:10:32-04:00",
+				"url": "https://elegantnewt.blog/2026/03/14/happy-day-to-those-who.html"
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2026/03/11/i-went-to-the-apple.html",
 				
 				"content_html": "<p>I went to the Apple Store and took a look at the new products. I did not buy anything! The Neo’s screen looked too dim for my taste and the mechanical touchpad, although nice, seemed just a bit clicky after years of using haptic feedback versions.</p>\n",
@@ -43,7 +51,7 @@
 				"id": "http://cfristrom.micro.blog/2025/11/26/pan-roasted-potato-and-fresh.html",
 				
 				"content_html": "<p>Pan roasted potato and fresh arugula 🍕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pan roasted potato and fresh arugula 🍕\n\n<img src=\"uploads/2025/d2668e683c0c4e42ab5f06f64bc9839d.jpg\" width=\"600\" height=\"600\" alt=\"Close up view of a small pizza covered in arugula sitting on a pale blue plate set on a light brown tablecloth.\">\n",
+				"content_text": "Pan roasted potato and fresh arugula 🍕\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2025/d2668e683c0c4e42ab5f06f64bc9839d.jpg\" width=\"600\" height=\"600\" alt=\"Close up view of a small pizza covered in arugula sitting on a pale blue plate set on a light brown tablecloth.\">\n",
 				"date_published": "2025-11-26T08:37:44-04:00",
 				"url": "https://elegantnewt.blog/2025/11/26/pan-roasted-potato-and-fresh.html",
 				"tags": ["Pizza"]
