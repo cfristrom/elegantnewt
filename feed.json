@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2026/03/22/mushrooms-and-onions.html",
+				
+				"content_html": "<p>Mushrooms and onions 🍕</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mushrooms and onions 🍕\n\n<img src=\"uploads/2026/b01b2fc2fdbe4b1ba7df14e715199849.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a blue plate, sitting on a wooden cutting board, seen from above.\">\n",
+				"date_published": "2026-03-22T19:45:40-04:00",
+				"url": "https://elegantnewt.blog/2026/03/22/mushrooms-and-onions.html",
+				"tags": ["Pizza"]
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2026/03/20/equinox-at-last-perhaps-we.html",
 				
 				"content_html": "<p>Equinox at last, perhaps we will get Spring some time soon?</p>\n",
@@ -42,7 +51,7 @@
 				"id": "http://cfristrom.micro.blog/2026/02/23/kale-sauted-onions-mushrooms-and.html",
 				
 				"content_html": "<p>Kale, sautéed onions, mushrooms, and ground beef 🍕Blizzard of ‘26 Edition</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kale, sautéed onions, mushrooms, and ground beef 🍕Blizzard of ‘26 Edition\n\n<img src=\"uploads/2026/3b0d5ed27511443cae661e9b61e2eec4.jpg\" width=\"600\" height=\"600\" alt=\"A small pizza on a cooling rack, sitting on top of a black induction stove top.\">\n",
+				"content_text": "Kale, sautéed onions, mushrooms, and ground beef 🍕Blizzard of ‘26 Edition\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2026/3b0d5ed27511443cae661e9b61e2eec4.jpg\" width=\"600\" height=\"600\" alt=\"A small pizza on a cooling rack, sitting on top of a black induction stove top.\">\n",
 				"date_published": "2026-02-23T19:09:33-04:00",
 				"url": "https://elegantnewt.blog/2026/02/23/kale-sauted-onions-mushrooms-and.html",
 				"tags": ["Pizza"]
@@ -59,7 +68,7 @@
 				"id": "http://cfristrom.micro.blog/2025/12/21/melting-the-sugar-cone-wassail.html",
 				
 				"content_html": "<p>Melting the sugar cone</p>\n<!-- raw HTML omitted -->\n<p>Wassail ready to serve</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Melting the sugar cone\n\n<img src=\"uploads/2025/21a69bc27e404b9095c0510a05318332.jpg\" width=\"600\" height=\"450\" alt=\"Flames rising from a metal bowl with a sugar cone on a wire rack on top, a hand holding a ladle on the right pouring liquid on the cone, a dark window in the background reflecting a small electric candle.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nWassail ready to serve\n\n<img src=\"uploads/2025/73c743d818c04664a54bea65f084f2ab.jpg\" width=\"600\" height=\"450\" alt=\"Blue flames on the surface of a metal bowl of punch, lines of punch glasses on either side, a dark window in the background reflecting a small electric candle.\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "Melting the sugar cone\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2025/21a69bc27e404b9095c0510a05318332.jpg\" width=\"600\" height=\"450\" alt=\"Flames rising from a metal bowl with a sugar cone on a wire rack on top, a hand holding a ladle on the right pouring liquid on the cone, a dark window in the background reflecting a small electric candle.\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nWassail ready to serve\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2025/73c743d818c04664a54bea65f084f2ab.jpg\" width=\"600\" height=\"450\" alt=\"Blue flames on the surface of a metal bowl of punch, lines of punch glasses on either side, a dark window in the background reflecting a small electric candle.\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2025-12-21T11:29:27-04:00",
 				"url": "https://elegantnewt.blog/2025/12/21/melting-the-sugar-cone-wassail.html"
 			},
