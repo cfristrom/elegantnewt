@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2026/03/28/no-kings.html",
+				
+				"content_html": "<p>No Kings</p>\n",
+				"content_text": "No Kings\n",
+				"date_published": "2026-03-28T20:04:22-04:00",
+				"url": "https://elegantnewt.blog/2026/03/28/no-kings.html"
+			},
+			{
+				"id": "http://cfristrom.micro.blog/2026/03/23/spring-in-new-england.html",
+				
+				"content_html": "<p>Spring in New England</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spring in New England\n\n<img src=\"uploads/2026/3c1877031b9e4f7a88d09621461067e9.jpg\" width=\"600\" height=\"450\" alt=\"Close up view of small purple crocuses poking up through brown leaf litter with a light cover of snow on the leaves.\">\n",
+				"date_published": "2026-03-23T09:13:11-04:00",
+				"url": "https://elegantnewt.blog/2026/03/23/spring-in-new-england.html"
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2026/03/22/mushrooms-and-onions.html",
 				
 				"content_html": "<p>Mushrooms and onions 🍕</p>\n<!-- raw HTML omitted -->\n",
