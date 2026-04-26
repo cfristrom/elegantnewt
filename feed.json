@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2026/04/26/101949.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/bf8d2e6fb9e040db9614d74338e7dd1f.jpg\" width=\"450\" height=\"600\" alt=\"A stone sculpture in the left foreground of a beaded man, with a large metal sculpture in the right background sitting on a lawn, with trees and white clouds against a blue sky behind.\">\n",
+				"date_published": "2026-04-26T10:19:49-04:00",
+				"url": "https://elegantnewt.blog/2026/04/26/101949.html"
+			},
+			{
+				"id": "http://cfristrom.micro.blog/2026/04/14/another-small-step-in-the.html",
+				
+				"content_html": "<p>Another small step in the right direction: <a href=\"https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact\">Virginia joins a national effort to ensure only popular vote winners become president</a></p>\n",
+				"content_text": "Another small step in the right direction: [Virginia joins a national effort to ensure only popular vote winners become president](https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact)\n",
+				"date_published": "2026-04-14T13:17:05-04:00",
+				"url": "https://elegantnewt.blog/2026/04/14/another-small-step-in-the.html"
+			},
+			{
+				"id": "http://cfristrom.micro.blog/2026/04/14/taxes-filed-with-plenty-of.html",
+				
+				"content_html": "<p>Taxes filed, with <em>plenty</em> of time to spare.</p>\n",
+				"content_text": "Taxes filed, with _plenty_ of time to spare.\n",
+				"date_published": "2026-04-14T13:12:20-04:00",
+				"url": "https://elegantnewt.blog/2026/04/14/taxes-filed-with-plenty-of.html"
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2026/04/07/i-guess-it-really-is.html",
 				
 				"content_html": "<p>I guess it really is TACO Tuesday.</p>\n",
@@ -42,7 +66,7 @@
 				"id": "http://cfristrom.micro.blog/2026/03/23/spring-in-new-england.html",
 				
 				"content_html": "<p>Spring in New England</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spring in New England\n\n<img src=\"uploads/2026/3c1877031b9e4f7a88d09621461067e9.jpg\" width=\"600\" height=\"450\" alt=\"Close up view of small purple crocuses poking up through brown leaf litter with a light cover of snow on the leaves.\">\n",
+				"content_text": "Spring in New England\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2026/3c1877031b9e4f7a88d09621461067e9.jpg\" width=\"600\" height=\"450\" alt=\"Close up view of small purple crocuses poking up through brown leaf litter with a light cover of snow on the leaves.\">\n",
 				"date_published": "2026-03-23T09:13:11-04:00",
 				"url": "https://elegantnewt.blog/2026/03/23/spring-in-new-england.html"
 			},
@@ -50,7 +74,7 @@
 				"id": "http://cfristrom.micro.blog/2026/03/22/mushrooms-and-onions.html",
 				
 				"content_html": "<p>Mushrooms and onions 🍕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mushrooms and onions 🍕\n\n<img src=\"uploads/2026/b01b2fc2fdbe4b1ba7df14e715199849.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a blue plate, sitting on a wooden cutting board, seen from above.\">\n",
+				"content_text": "Mushrooms and onions 🍕\n\n<img src=\"https://cdn.uploads.micro.blog/18112/2026/b01b2fc2fdbe4b1ba7df14e715199849.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a blue plate, sitting on a wooden cutting board, seen from above.\">\n",
 				"date_published": "2026-03-22T19:45:40-04:00",
 				"url": "https://elegantnewt.blog/2026/03/22/mushrooms-and-onions.html",
 				"tags": ["Pizza"]
