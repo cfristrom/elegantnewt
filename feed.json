@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://cfristrom.micro.blog/2026/09/18/190324.html",
+				
+				"content_html": "<img src=\"uploads/2026/9bf1762382724425a76e5b5e3bb73c89.jpg\" width=\"450\" height=\"600\" alt=\"View of the Empire State Building from 28th Street, the building framed on either side by high rise apartment towers, blue sky beyond. \">\n",
+				"content_text": "<img src=\"uploads/2026/9bf1762382724425a76e5b5e3bb73c89.jpg\" width=\"450\" height=\"600\" alt=\"View of the Empire State Building from 28th Street, the building framed on either side by high rise apartment towers, blue sky beyond. \">\n",
+				"date_published": "2026-09-18T19:03:24-04:00",
+				"url": "https://elegantnewt.blog/2026/09/18/190324.html"
+			},
+			{
 				"id": "http://cfristrom.micro.blog/2026/09/01/175953.html",
 				
-				"content_html": "<img src=\"uploads/2026/fb976cf694cc495a9a6839c4e6f584b8.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack sitting on a wooden cutting board. \">\n",
-				"content_text": "<img src=\"uploads/2026/fb976cf694cc495a9a6839c4e6f584b8.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack sitting on a wooden cutting board. \">\n",
+				"content_html": "<p>Zucchini and sausage 🍕</p>\n<img src=\"uploads/2026/fb976cf694cc495a9a6839c4e6f584b8.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack sitting on a wooden cutting board. \">\n",
+				"content_text": "Zucchini and sausage 🍕\n\n<img src=\"uploads/2026/fb976cf694cc495a9a6839c4e6f584b8.jpg\" width=\"600\" height=\"600\" alt=\"Small pizza on a cooling rack sitting on a wooden cutting board. \">\n",
 				"date_published": "2026-09-01T17:59:53-04:00",
-				"url": "https://elegantnewt.blog/2026/09/01/175953.html"
+				"url": "https://elegantnewt.blog/2026/09/01/175953.html",
+				"tags": ["Pizza"]
 			},
 			{
 				"id": "http://cfristrom.micro.blog/2026/08/06/boston-common.html",
